@@ -1,5 +1,5 @@
 # -Psychotherapist-Application
-  **‣** A mobile application that leverages Artificial Intelligence to simulate therapist-patient conversations, providing users with psychological support and advice. The system combines Natural Language Processing (NLP) and transformer-based models to detect mental health patterns, classify user inputs, and recommend coping strategies.
+  **➤** A mobile application that leverages Artificial Intelligence to simulate therapist-patient conversations, providing users with psychological support and advice. The system combines Natural Language Processing (NLP) and transformer-based models to detect mental health patterns, classify user inputs, and recommend coping strategies.
 
 # 🎯 Objectives
   1. Provide accessible mental health support using AI-driven conversations.
