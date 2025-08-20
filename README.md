@@ -14,7 +14,7 @@
  • **Doctor Support**: Direct connection with professional therapists.
  • **User-Friendly Interface**: Simple, interactive, and accessible to non-technical users.
 
-🛠 Technologies Used
+# 🛠 Technologies Used
   • **Programming Language**: Python
   • **NLP Frameworks**: Transformers, NLTK
   • **Data Processing**: Pandas, JSON
@@ -31,6 +31,6 @@
   • Add mobile app deployment with cloud-based AI services.
 
 # 👨‍💻 Team Roles
-**Ibrahim Mousa ElSayed Swillem – Data Analyst & Model Developer
-**
+  **Ibrahim Mousa ElSayed Swillem** – **Data Analyst & Model Developer**
+********
 [Add teammates + their roles here if needed]
