@@ -9,9 +9,13 @@
 
 # ⚙️ Features
  • **AI Chatbot**: Simulates the role of a psychotherapist in real-time conversations.
- •** Mental Illness** Classification: Achieved 92% accuracy across 500+ test dialogues.****
+ 
+ • **Mental Illness** Classification: Achieved 92% accuracy across 500+ test dialogues.
+ 
  • **Relaxation Mode**: Integrated meditation music for stress relief.
+ 
  • **Doctor Support**: Direct connection with professional therapists.
+ 
  • **User-Friendly Interface**: Simple, interactive, and accessible to non-technical users.
 
 # 🛠 Technologies Used
